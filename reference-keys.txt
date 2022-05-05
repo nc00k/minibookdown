@@ -1,1 +1,9 @@
-create-your-open-textbook
+preface
+introduction
+literature
+methods
+applications
+example-one
+example-two
+final-words
+bibliography
